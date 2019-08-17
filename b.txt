@@ -1,0 +1,20 @@
+创建分支命令：
+
+git branch (branchname)
+切换分支命令:
+
+git checkout (branchname)
+
+删除分支命令：
+
+git branch -d (branchname)
+
+
+合并分支命令:
+
+git merge (branchname)
+//(master,del dev)
+
+
+
+
